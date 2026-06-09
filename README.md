@@ -1,4 +1,4 @@
-HasnainDarkNet — Cybersecurity Research Lab
+
 
 ⚠️ Educational & Authorized Testing Only
 
@@ -24,7 +24,7 @@ The purpose of this repository is to help students and security enthusiasts lear
 
 💾 Clone to Kali-Linux
 
-Kali-linux Clone => https://github.com/HasnainDarkNet/kali
+Kali-linux Clone => https://github.com/DanishDhanjal15/Kali
 
 ---
 
@@ -48,8 +48,4 @@ Always practice cybersecurity responsibly and only within environments you own o
 
 ---
 
-🌐 Connect
 
-YouTube: HasnainDarkNet
-
-GitHub: https://github.com/HasnainDarkNet
